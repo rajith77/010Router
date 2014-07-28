@@ -1,0 +1,4 @@
+./router_mgr -a '0.0.0.0/weather ca.on.to.* yyz_weather'
+./router_mgr -a '0.0.0.0/weather ca.* ca_weather'
+./router_mgr -a '0.0.0.0/weather ca.on.* on_weather'
+./router_mgr -a '0.0.0.0/weather us.* us_weather'
